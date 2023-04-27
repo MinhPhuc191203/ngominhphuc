@@ -92,8 +92,8 @@ html, section{
   border-radius: 20px;
 }
 .row .col-sm-12 .img .avatar{
- width: 300px;
- height: 300px;
+ width: 280px;
+ height: 320px;
  transition:  0.4s ease-in-out;
  box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.1);
 
