@@ -92,10 +92,7 @@ html, section{
   border-radius: 20px;
 }
 .row .col-sm-12 .img .avatar{
- width: 280px;
- height: 350px;
  box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.1);
-
 }
 .bg-section-1{
   background-color: #4C3575;
